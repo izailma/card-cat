@@ -25,6 +25,7 @@ section figure img {
     height: 144px;
 }
 
+
 figure{
     padding: 64px;
 }
@@ -54,4 +55,21 @@ li a {
     font-size: 20px;
     color: #212529;
 
+}
+
+button {
+   background: #b9fbc0; 
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0, 0.15);
+   border-radius: 32px 32px 32px 32px;
+   padding: 19px 0;
+   margin: 16px 0;
+
+}
+
+footer {
+   margin: 0;
+   background-color: #90dbf4;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0, 0.15);
+   padding: 19px 0;
+   margin: 16px 0;
 }
